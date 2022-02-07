@@ -1,7 +1,7 @@
-### Hello
+### Welcome to my Web Portfolio repository!
 
-<!--
-Just setting up this web portolio of mine.
+
+Just wanted to put it up here cuz why not!
 
 - 🔭 I’m currently working on a professional minimalist web portfolio for now
 - 🌱 I’m currently learning node.js, data structures & algorithms
@@ -11,4 +11,4 @@ Just setting up this web portolio of mine.
 - 📫 How to reach me: https://www.linkedin.com/in/norbeya/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'd love to visit Japan one of these years!
--->
+
