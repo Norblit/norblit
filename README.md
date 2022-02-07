@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello
 
 <!--
-**Norblit/norblit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just setting up this web portolio of mine.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a professional minimalist web portfolio for now
+- 🌱 I’m currently learning node.js, data structures & algorithms
+- 👯 I’m looking to collaborate on beginner to intermediate projects
+- 🤔 I’m looking for help with obtaining a job lol
+- 💬 Ask me about anime, pop music and coding
+- 📫 How to reach me: https://www.linkedin.com/in/norbeya/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'd love to visit Japan one of these years!
 -->
