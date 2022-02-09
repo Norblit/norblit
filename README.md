@@ -1,7 +1,4 @@
-### Welcome to my Web Portfolio repository!
-
-
-Still in the middle of completing my web portfolio, will be adding it here soon!
+### Welcome to my profile!
 
 - 🔭 I’m currently working on a professional minimalist web portfolio
 - 🌱 I’m currently learning node.js, data structures & algorithms
