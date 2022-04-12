@@ -1,12 +1,25 @@
-### Welcome, my name is Norbey!
+View Web Portoflio here: https://www.norblit.com/
 
-You can view my live web portfolio here: https://www.norblit.com/
+### About me
+- My main goal is to keep learning and to obtain an internship or full-time position in Web Development!
+- Currently, my most active project is developing a platform where users can create and organize their anime watchlists featuring account management, profile customization, access to an anime database and more. Stay tuned [here.](https://github.com/Norblit/Ani.Me)
+- I'm passionate about learning these tools and technologies so I can one day create my own application and startup.
+- I love to watch anime and play chess. My top 3 anime are My Hero Academia, Attack on Titan, and Re:Zero. I'll play chess anytime so don't hesitate to ask! ♛
 
-- 🔭 I’m currently working on: An anime watchlist platform where every registered user can create and edit their own list of anime shows or movies. Techonlogies used are MongoDB, Express.js, Node.js, and SASS. I am using AniList's API for data entry and entry validation. Snapshots can be seen [here!](https://github.com/Norblit/Ani.Me)
-- 🌱 I’m currently learning React, Docker, Algorithms, and Data Structures
-- 👯 I’m looking to collaborate on beginner to intermediate web applications/projects preferrably on a MERN stack for a deeper practice within the scope of what I already know and I am as well seeking for an internship or full-time employment as a Junior Back-End Developer
-- 💬 Ask me about anime, chess, or coding!
-- 📫 You can reach me @ https://www.linkedin.com/in/norbeya/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'd love to visit Japan and I cannot wait for the second season of Arcane!
+### Technologies
+|<a href='https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163024092-afd95e2e-194a-470f-b71e-4c691c12bc0a.png" alt="HTML" width="35"/></a>|<a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163024207-9c7e5c36-f2e8-403b-8b62-82b56bbd2ab5.png" alt="CSS" width="35"/></a>|<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank"><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="JavaScript" width="35"/></a>|<a href='https://getbootstrap.com/' target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="45"/></a>|<a href='https://www.mongodb.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163027771-d40bf484-2072-4c53-9807-5f7fa1906b75.svg" alt="MongoDB" width="100"/></a>|<a href='https://reactjs.org/' target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" alt="React" width="35"/></a>|<a href='https://sass-lang.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163028260-2f1b0d82-8fdf-4f5f-84e1-f3ba1079a7f5.svg" alt="Sass" width="50"/></a>|<a href='https://git-scm.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163028704-82fd7064-e245-45b6-a9d4-6c75eaeaf4e2.png" alt="Git" width="40"/></a>|<a href='https://www.figma.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163029146-361c582f-1e07-418b-a7cf-d234020b67c6.svg" alt="Figma" width="25"/></a>|<a href='https://nodejs.org/en/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163029697-7180e99f-aaa6-420e-bb5e-f80bf25a39a6.svg" alt="NodeJS" width="65"/></a>|<a href='https://www.docker.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163030009-153e53b4-883e-41c9-96ee-e03d24d2b57c.png" alt="Docker" width="55"/></a>
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
+### Currently Learning
+- React.js
+- Unit Testing (Jest, Cypress, Puppeteer)
+- Deployment (Netlify, cPanel, Vercel, Amazon S3)
+- Algorithms and Data Structures
+- Webpack
+
+### Plan to Learn
+- Material UI
+- Tailwind CSS
+- Next.js
+- AWS
+- Microservices
