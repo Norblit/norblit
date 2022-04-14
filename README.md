@@ -10,7 +10,7 @@ View Web Portoflio here: https://www.norblit.com/ (Redesign in Progress)
 <a href='https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163434796-c495d861-63ab-447f-8191-97c3a52d5f4d.svg" alt="HTML" width="35"/></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163434909-8f81f2d0-3029-43f4-be99-ca8aa41473ed.svg" alt="CSS" width="35"/></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank"><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="JavaScript" width="35"/></a>
-<a href='https://getbootstrap.com/' target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="45"/></a>
+<a href='https://getbootstrap.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163444314-ec3b50d6-1d28-4a88-bdec-5de66b15584e.svg" alt="Bootstrap" width="45"/></a>
 <a href='https://www.mongodb.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163027771-d40bf484-2072-4c53-9807-5f7fa1906b75.svg" alt="MongoDB" width="100"/></a>
 <a href='https://reactjs.org/' target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" alt="React" width="35"/></a>
 <a href='https://sass-lang.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163028260-2f1b0d82-8fdf-4f5f-84e1-f3ba1079a7f5.svg" alt="Sass" width="50"/></a>
