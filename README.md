@@ -1,4 +1,4 @@
-View Web Portoflio here: https://www.norblit.com/ (Redesign in progress)
+View Web Portoflio here: https://www.norblit.com/ (Redesign in Progress)
 
 ### About me
 - My main goal is to keep learning and to obtain an internship or full-time position in Web Development!
