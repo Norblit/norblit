@@ -1,10 +1,10 @@
 View Web Portoflio here: https://www.norblit.com/ (Redesign in Progress)
 
 ### About me
-- My main goal is to keep learning and to obtain an internship or full-time position in Web Development!
-- Currently, my most active project is developing a platform where users can create and organize their anime watchlists featuring account management, profile customization, access to an anime database and more. Stay tuned [here.](https://github.com/Norblit/Ani.Me)
+- My main goal is to keep learning and obtain an internship or full-time position in Web Development!
+- Currently, my most active project is developing a platform where users can create and organize their anime watchlists featuring account management, profile customization, access to an anime database, and more. Stay tuned [here.](https://github.com/Norblit/Ani.Me)
 - I'm passionate about learning these tools and technologies so I can one day create my own application and startup.
-- I love to watch anime and play chess. My top 3 anime are My Hero Academia, Attack on Titan, and Re:Zero. I'll play chess anytime so don't hesitate to ask! ♛
+- I love to watch anime and play chess. My top 3 favorite anime are My Hero Academia, Attack on Titan, and Re:Zero. I'll also play chess anytime so don't hesitate to ask! ♛
 
 ### Technologies
 <a href='https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163434796-c495d861-63ab-447f-8191-97c3a52d5f4d.svg" alt="HTML" width="35"/></a>
