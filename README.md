@@ -21,7 +21,6 @@ View Web Portoflio here: https://www.norblit.com/ (Redesign in Progress)
 
 
 ### Currently Learning
-- React.js
 - Unit Testing (Jest, Cypress, Puppeteer)
 - Deployment (Netlify, cPanel, Vercel, Amazon S3)
 - Algorithms and Data Structures
