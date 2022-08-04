@@ -20,13 +20,9 @@ View Web Portoflio here: https://www.norblit.com/
 <a href='https://www.docker.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163030009-153e53b4-883e-41c9-96ee-e03d24d2b57c.png" alt="Docker" width="55"/></a>
 
 
-### Currently Learning
+### To Learn:
 - Unit Testing (Jest, Cypress, Puppeteer)
-- Deployment (Netlify, cPanel, Vercel, Amazon S3)
-- Algorithms and Data Structures
 - Webpack
-
-### Plan to Learn
 - Material UI
 - Tailwind CSS
 - Next.js
