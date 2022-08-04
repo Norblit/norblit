@@ -20,7 +20,7 @@ View Web Portoflio here: https://www.norblit.com/
 <a href='https://www.docker.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163030009-153e53b4-883e-41c9-96ee-e03d24d2b57c.png" alt="Docker" width="55"/></a>
 
 
-### To Learn:
+### Currently Learning:
 - Unit Testing (Jest, Cypress, Puppeteer)
 - Webpack
 - Material UI
