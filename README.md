@@ -18,15 +18,3 @@ View Web Portoflio here: https://www.norblit.com/
 <a href='https://www.figma.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163029146-361c582f-1e07-418b-a7cf-d234020b67c6.svg" alt="Figma" width="25"/></a>
 <a href='https://nodejs.org/en/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163029697-7180e99f-aaa6-420e-bb5e-f80bf25a39a6.svg" alt="NodeJS" width="65"/></a>
 <a href='https://www.php.net/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/209482934-7fd80400-55b7-4d7c-8a83-8dd816596080.svg" alt="PHP" width="55"/></a>
-
-
-
-
-### Currently Learning:
-- Unit Testing (Jest, Cypress, Puppeteer)
-- Webpack
-- Material UI
-- Tailwind CSS
-- Next.js
-- AWS
-- Microservices
