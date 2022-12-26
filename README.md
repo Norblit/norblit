@@ -12,9 +12,10 @@ View Web Portoflio here: https://www.norblit.com/
 <a href='https://www.figma.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163029146-361c582f-1e07-418b-a7cf-d234020b67c6.svg" alt="Figma" width="25"/></a>
 <a href='https://nodejs.org/en/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163029697-7180e99f-aaa6-420e-bb5e-f80bf25a39a6.svg" alt="NodeJS" width="65"/></a>
 <a href='https://www.php.net/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/209482934-7fd80400-55b7-4d7c-8a83-8dd816596080.svg" alt="PHP" width="55"/></a>
-
+<a href='https://www.mysql.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/209485943-c103dedf-5213-449c-8a36-5ce1c1306e44.png" alt="MySQL" width="55"/></a>
 
 ### About me
+
 - I love to watch anime and play chess. If you'd like to play, don't hesitate to ask! ♛
 - Currently, my current personal project is developing a platform where users can create and organize their anime watchlists featuring account management, profile customization, access to an anime database, and more. Stay tuned [here.](https://github.com/Norblit/Ani.Me)
 - I'm passionate about learning these tools and technologies so I can be the best version of myself and eventually one day create an application and startup of my own.
