@@ -13,7 +13,7 @@ View Web Portoflio here: https://www.norblit.com/
 <a href='https://nodejs.org/en/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163029697-7180e99f-aaa6-420e-bb5e-f80bf25a39a6.svg" alt="NodeJS" width="65"/></a>
 <a href='https://www.php.net/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/209482934-7fd80400-55b7-4d7c-8a83-8dd816596080.svg" alt="PHP" width="55"/></a>
 <a href='https://www.mysql.com/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/209485943-c103dedf-5213-449c-8a36-5ce1c1306e44.png" alt="MySQL" width="55"/></a>
-<a href='https://www.linux.org/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/227695837-9b77af6b-ed95-4679-afb8-546cafcf6b73.png" alt="Linux" width="55"/></a>
+<a href='https://www.linux.org/' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/227695837-9b77af6b-ed95-4679-afb8-546cafcf6b73.png" alt="Linux" width="35"/></a>
 ### About me
 
 - I love to watch anime and play chess. If you'd like to play, don't hesitate to ask! ♛
