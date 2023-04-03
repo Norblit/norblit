@@ -20,4 +20,5 @@ View Web Portoflio here: https://www.norblit.com/
 - I love to watch anime and play chess. If you'd like to play, don't hesitate to ask! ♛
 - Currently, my current personal project is developing a platform where users can create and organize their anime watchlists featuring account management, profile customization, access to an anime database, and more. Stay tuned [here.](https://github.com/Norblit/Ani.Me)
 - I'm passionate about learning these tools and technologies so I can be the best version of myself and eventually one day create an application and startup of my own.
+- Some of my goals are to learn plenty of subjects in the tech industry such as AI integrations, UI/UX Design, and Database management. Tech is huge and we have to learn everyday to keep up!
 
