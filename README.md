@@ -6,10 +6,11 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ## 🚀 About Me
-* **I love to watch anime, play chess, and make websites** 🧍🏻‍♂️
-* **Currently developing a platform called [AniMii](https://github.com/Norblit/Ani.Me) where users can create and organize their anime watchlists** 💻 
-* **I'm studying for the AWS Solutions Architect Associate Certificate** ✏️
-* 
+* My name is Norbey, pronounced (NOR-BEE) 👋🏼
+* I love to watch anime, play chess, and make websites 💻
+* I'm currently developing a platform called [AniMii](https://github.com/Norblit/Ani.Me) where users can create and organize their anime watchlists 👥 
+* I'm studying for the AWS Solutions Architect Associate Certificate ✏️
+* and I'm more of a dog person though I love cats too! 🐶
 ## ✨ Learning Goals 
 * Advanced React
 * React Native
