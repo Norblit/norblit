@@ -6,15 +6,13 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ## 🚀 About Me
-* I love to watch anime, play chess, and make websites 💥
+* **I love to watch anime, play chess, and make websites** 💥
 </br></br>
-* I'm currently developing a platform where users can create and organize their anime watchlists using an api database [(AniMii)](https://github.com/Norblit/Ani.Me) 💻 
+* **Currently developing a platform where users can create and organize their anime watchlists using [AniList's API](https://github.com/Norblit/Ani.Me)** 💻 
 </br></br>
-* I'm also learning to become a certified AWS Solutions Architect Associate 💭 
+* **I'm also studying to become a certified AWS Solutions Architect Associate** 💭 
 </br></br>
-* Other goals of mine are to learn more Front-end Frameworks, Web Servers, Web API's, AI integrations, and a some UI/UX Design ✏️
-</br></br>
-### 💫 *"Any sufficiently advanced technology is indistinguishable from magic"* ~ Arthur C. Clarke  💫
+* **Other goals of mine are to learn more Front-end Frameworks, Web Servers, Web API's, UI/UX Designs, and AI integrations ✏️**
 </br>
 
 ## 👨🏽‍💻 Technologies
