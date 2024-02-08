@@ -7,19 +7,16 @@
 
 ## 🚀 About Me
 * My name is Norbey, pronounced (NOR-BEE) 👋🏼
-* I love to watch anime, play chess, and make websites 💻
-* I'm currently developing a platform called [AniMii](https://github.com/Norblit/Ani.Me) where users can create and organize their anime watchlists 👥 
-* I'm studying for the AWS Solutions Architect Associate Certificate ✏️
-* and I'm more of a dog person though I love cats too! 🐶
-## ✨ Learning Goals 
-* Advanced React
-* React Native
-* AI integrations
-* UI/UX Design
-* AWS
-* Webpack
-* Material UI
-* Next.js
+* Colombian but born and raised in Queens, NY! 🗽
+* I love to watch anime, play chess, and build web applications 💻
+* My favorite song at the moment is Ode To The Mets by The Strokes 🎧
+* My favorite anime is Attack on Titan 🩸
+* I also love interaction design (UX research, wireframing, prototyping, etc) 🎨
+## ✨ 2024 Goals 
+* Learn Advanced React
+* Complete small mobile development projects
+* Integrate AI APIs into a handful of projects
+* Acquire a summer internship!
 * and more...
 
 
