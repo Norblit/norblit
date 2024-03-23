@@ -8,17 +8,7 @@
 ## 🚀 About Me
 * My name is Norbey, pronounced (NOR-BEE) 👋🏼
 * Colombian but born and raised in Queens, NY! 🗽
-* I love to watch anime, play chess, and build web applications 💻
-* My favorite song at the moment is Ode To The Mets by The Strokes 🎧
-* My favorite anime is Attack on Titan 🩸
-* I also love interaction design (UX research, wireframing, prototyping, etc) 🎨
-## ✨ 2024 Goals 
-* Learn Advanced React
-* Complete small mobile development projects
-* Integrate AI APIs into a handful of projects
-* Acquire a summer internship!
-* and more...
-
+* I love to watch anime, play chess, and design user experiences 🎨
 
 ## 👨🏽‍💻 Technologies
 <a href='https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163434796-c495d861-63ab-447f-8191-97c3a52d5f4d.svg" alt="HTML" width="40"/></a>
