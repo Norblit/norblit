@@ -9,7 +9,7 @@
 ## 🚀 About Me
 * My name is Norbey, pronounced (NOR-BEE) 👋🏼
 * Colombian but born and raised in Queens, NY! 🗽
-* I love to watch anime, play chess, and design user experiences 🎨
+* I love to watch anime, play chess, and create 🎨
 
 ## 👨🏽‍💻 Technologies
 <a href='https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics' target="_blank"><img src="https://user-images.githubusercontent.com/58277229/163434796-c495d861-63ab-447f-8191-97c3a52d5f4d.svg" alt="HTML" width="40"/></a>
