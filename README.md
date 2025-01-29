@@ -1,5 +1,6 @@
 <a href="https://norblit.com/" target="_blank">
-<img width="1423" alt="Web Portfolio Screenshot" src="https://user-images.githubusercontent.com/58277229/229711447-923e23ac-3a3a-4836-9731-869e77b05907.png">
+<img width="1669" alt="Screenshot 2025-01-29 at 2 54 44 AM" src="https://github.com/user-attachments/assets/15e887cb-0fd1-4ede-bbc1-42a8e4117978" />
+
 </a>
 
 [![portfolio](https://img.shields.io/badge/portfolio-192b43?style=for-the-badge&logo=ko-fi&logoColor=white)](https://norblit.com/)
